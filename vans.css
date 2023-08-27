@@ -161,7 +161,8 @@ color: transparent;
  border-color: rgb(192, 192, 192, 0.2);
  width:1530px;
  margin-left:-10px;
- border-width:2px
+ border-width:2px;
+ z-index: 2;
 }
 .vansbanner1{
   display: block;
@@ -206,6 +207,8 @@ width: 50px;
   width: 100%;
   max-width: 340px;
   padding-left: 22px;
+  
+  
 }
 
 .image{
@@ -214,6 +217,7 @@ width: 50px;
    object-fit: cover;
    filter: brightness(56%);
    margin-left:20px;
+   
 }
 
 .btn{
@@ -243,7 +247,7 @@ border-width: 1px;
   padding-left:22px;
 }
 
-.pic{
+.divnextgroup img{
   margin-left: 20px;
   width:700px;
   cursor: pointer;
@@ -390,6 +394,7 @@ background-color: white;
     display: flex;
     padding-left: 32px;
     padding-top: 46px;
+    
  }
   
   .scroll-image{
@@ -411,7 +416,7 @@ background-color: white;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
     color: rgb(1, 1, 1, 0.7);
-    margin-left:270px;
+    margin-left:300px;
   }
 
 
@@ -419,26 +424,35 @@ background-color: white;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
     color: rgb(1, 1, 1, 0.7);
-    margin-left:276px;
+    margin-left:325px;
   }
   
   .product-text4{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
     color: rgb(1, 1, 1, 0.7);
-    margin-left:160px;
+    margin-left:195px;
+  }
+  .product-text5{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(1, 1, 1, 0.7);
+    margin-left:310px;
   }
 
   .product-div{
+   
     padding-top: 30px;
-    padding-left: 56px;
+    padding-left: 66px;
     display:flex;
-    column-gap: 40px;
+    row-gap: 40px;
+    width: 2000px;
+    
   }
 
   .rate-div{
     padding-top: 12px;
-    padding-left: 56px;
+    padding-left: 66px;
     display:flex;
     column-gap: 40px;
     padding-bottom: 30px;
@@ -739,4 +753,11 @@ filter: brightness(56%);
  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  font-size:16px;
  font-weight: 500;
+}
+
+.nz{
+  overflow: scroll;
+}
+.nz::-webkit-scrollbar {
+  display: none;
 }
