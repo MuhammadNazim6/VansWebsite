@@ -179,6 +179,7 @@ color: transparent;
   top: 300px;
   position: fixed;
   cursor: pointer;
+  z-index: 4;
 }
 .cart0{
 width: 50px;  
@@ -200,6 +201,9 @@ width: 50px;
 
 .divgroup{
  display:flex;
+
+ z-index: 1;
+ position: absoloute;
 }
 
 .container{
