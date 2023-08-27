@@ -564,6 +564,9 @@ background-color: white;
     cursor: pointer;
   }
 
+  .footer-elements2:hover{
+    color: crimson;
+  }
   .footer-elements3{
     margin-left: 154px;
     color: white;
@@ -572,7 +575,9 @@ background-color: white;
     width:170px;
     cursor: pointer;
     }
-
+    .footer-elements3:hover{
+      color: crimson;
+    }
   .footer-elements4{
     margin-left: 115px;
     color: white;
@@ -580,7 +585,9 @@ background-color: white;
     font-size: 14px;
     cursor: pointer;
   }
-
+  .footer-elements4:hover{
+    color: crimson;
+  }
   .footer-elements5{
     margin-left: 62px;
     color: white;
@@ -588,6 +595,7 @@ background-color: white;
     font-size: 14px;
     cursor: pointer;
   }
+
   .footer-elements6{
     margin-left: 242px;
     color: white;
