@@ -4,7 +4,7 @@ body{
 }
 
 .Shopnow-text{
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   color: white;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -21,7 +21,7 @@ body{
 }
 
 .shopnow-link:hover{
- color:red;
+ color:rgb(255, 0, 0);
  text-decoration-line: underline;
 }
 
@@ -110,7 +110,7 @@ cursor: pointer;
 }
 
 .search-engine:focus-within{
- border-color: black;
+ border-color: rgb(0, 0, 0);
 }
 
 .fa-search { 
@@ -237,8 +237,8 @@ border-width: 1px;
 }
 
 .btn:hover{
-  border-color:crimson;
-  color: crimson;
+  border-color:rgb(220, 20, 60);
+  color: rgb(220, 20, 60);
 }
 
 .justin{
@@ -293,11 +293,11 @@ font-stretch: semi-condensed;
 font-size: 15px;
 font-weight: bold;
 cursor: pointer;
-background-color: white;
+background-color: rgb(255, 255, 255);
 }
 .btn3:hover{
-  color:crimson;
-  border-color: crimson;
+  color:rgb(220, 20, 60);
+  border-color: rgb(220, 20, 60);
 }
 .afterbanner3{
   margin-left: 174px;
@@ -334,8 +334,8 @@ background-color: white;
   margin-top:50px;
   }
   .btn4:hover{
-    color:crimson;
-    border-color: crimson;
+    color:rgb(220, 20, 60);
+    border-color: rgb(220, 20, 60);
   }
   
    .btn5{
@@ -349,13 +349,13 @@ background-color: white;
     font-size: 15px;
     font-weight: bold;
     cursor: pointer;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     margin-top:50px;
   
   }
   .btn5:hover{
-    color:crimson;
-    border-color: crimson;
+    color:rgb(220, 20, 60);
+    border-color: rgb(220, 20, 60);
   }
 
   .line-style{
@@ -500,7 +500,7 @@ background-color: white;
 
   .footer-heading1{
     margin-left: 246px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 29px;
     letter-spacing: 3px;
@@ -510,7 +510,7 @@ background-color: white;
 
   .footer-heading2{
     margin-left: 200px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 29px;
     letter-spacing: 3px;
@@ -520,7 +520,7 @@ background-color: white;
 
   .footer-heading3{
     margin-left: 154px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 29px;
     letter-spacing: 3px;
@@ -530,7 +530,7 @@ background-color: white;
 
   .footer-heading4{
     margin-left: 110px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 29px;
     letter-spacing: 3px;
@@ -540,7 +540,7 @@ background-color: white;
 
   .footer-heading5{
     margin-left: 62px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 29px;
     letter-spacing: 3px;
@@ -550,51 +550,51 @@ background-color: white;
 
   .footer-elements1{
     padding-left: 246px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
     cursor: pointer;
     width:500px;
   }
   .footer-elements1:hover{
-    color: crimson;
+    color: rgb(220, 20, 60);
    }
 
   .footer-elements2{
     margin-left: 200px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
     cursor: pointer;
   }
 
   .footer-elements2:hover{
-    color: crimson;
+    color: rgb(220, 20, 60);
   }
   .footer-elements3{
     margin-left: 154px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
     width:170px;
     cursor: pointer;
     }
     .footer-elements3:hover{
-      color: crimson;
+      color: rgb(220, 20, 60);
     }
   .footer-elements4{
     margin-left: 115px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
     cursor: pointer;
   }
   .footer-elements4:hover{
-    color: crimson;
+    color: rgb(220, 20, 60);
   }
   .footer-elements5{
     margin-left: 62px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
     cursor: pointer;
@@ -602,13 +602,13 @@ background-color: white;
 
   .footer-elements6{
     margin-left: 242px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 11px;
   }
   .footer-elements7{
     margin-left: 242px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
   }
@@ -646,14 +646,14 @@ background-color: white;
 
   .footer-elements8{
     margin-left: 15px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 14px;
     width: 260px;
   }
   .follow-vans{
     margin-left: 246px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 29px;
     letter-spacing: 3px;
@@ -687,17 +687,17 @@ background-color: white;
 }
 
 .fa-square-pinterest:hover{
- color: crimson;
+ color: rgb(220, 20, 60);
  transition: 0.3s;
 }
 
 .fa-square-youtube:hover{
- color: orangered;
+ color: rgb(255, 69, 0);
  transition: 0.3s;
 }
 
 .fa-square-instagram:hover{
-color:blueviolet;
+color:rgb(138, 43, 226);
 transition: 0.3s;
 }
 
@@ -709,7 +709,7 @@ transition: 0.3s;
 
 .footer-elements9{
   margin-left: 15px;
-  color: white;
+  color: rgb(255, 255, 255);
   font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
   width: 260px;
@@ -717,7 +717,7 @@ transition: 0.3s;
 }
 .footer-elements10{
   margin-left: 57px;
-  color: white;
+  color: rgb(255, 255, 255);
   font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
   width: 260px;
@@ -747,7 +747,7 @@ filter: brightness(56%);
 
 .store-locator{
   margin-left: 324px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size: 29px;
     letter-spacing: 3px;
@@ -756,7 +756,7 @@ filter: brightness(56%);
 
 .footer-element7-1{
   margin-left: 194px;
-  color: white;
+  color: rgb(255, 255, 255);
   font-family:Arial, Helvetica, sans-serif;
   font-size: 14px;
 }
